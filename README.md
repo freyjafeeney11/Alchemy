@@ -25,8 +25,3 @@ This project was developed using various resources, including YouTube tutorials,
 <img width="1155" alt="Screenshot 2024-04-06 at 3 53 52 PM" src="https://github.com/freyjafeeney11/Alchemy/assets/83038656/324613e3-71f5-4238-830e-0d2c27322d73">
 <img width="367" alt="Screenshot 2024-04-06 at 4 04 14 PM" src="https://github.com/freyjafeeney11/Alchemy/assets/83038656/98d1bfb8-a596-4adf-ab32-2b0757245ea6">
 
-
-
-## Contact
-
-For inquiries or to view more projects, please feel free to contact me at [your.email@example.com](mailto:your.email@example.com).
